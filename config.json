@@ -1,0 +1,9 @@
+{
+  "SETTINGS": {
+  	"name": "astral",
+    "mode": "dev",
+    "color": "g",
+    "mouse": true,
+    "click": false
+  }
+}
